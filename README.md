@@ -18,6 +18,20 @@ This repository showcases my **cyber security lab work** in a Kali (Apporto) env
   - Week 12: **Revision & Exam Support**  
   
 ``
+## Roadmap (Weeks 2–6)
+
+- **Week 2 – Cyber Security Essentials & Risk** (lecture) / **Kali Basics** (tutorial)  
+  *Planned artifacts:* basic service discovery, file permissions mini‑lab, screenshot evidence.
+- **Week 3 – Cryptography, Hashing & Digital Signatures** / **Password Cracking**  
+  *Planned artifacts:* hashing demo (sha256sum), wordlist usage, screenshots, brief notes.
+- **Week 4 – Network Security & Firewalls** / **Network Scanning**  
+  *Planned artifacts:* `nmap` scan examples (host discovery, service/version), outputs + notes.
+- **Week 5 – Network Protocols, NAT & VPN** / **Vulnerability Scanning**  
+  *Planned artifacts:* vulnerability scanner output (e.g., sample report), remediation notes.
+- **Week 6 – Cloud Security** / **IAM, Remote Access, Logging & Monitoring**  
+  *Planned artifacts:* IAM policy examples, SSH hardening checklist, log parsing snippet.
+
+
 ## Security Context
 
 The lab series aligns with core cyber security pillars and practices emphasised in the module:
