@@ -17,7 +17,6 @@ This repository showcases my **cyber security lab work** in a Kali (Apporto) env
   - Week 7–10: **Penetration Testing / Attacks / Web App Security / Malware & Covering Tracks** with corresponding labs  
   - Week 12: **Revision & Exam Support**  
   
-``
 ## Roadmap (Weeks 2–6)
 
 - **Week 2 – Cyber Security Essentials & Risk** (lecture) / **Kali Basics** (tutorial)  
@@ -30,7 +29,6 @@ This repository showcases my **cyber security lab work** in a Kali (Apporto) env
   *Planned artifacts:* vulnerability scanner output (e.g., sample report), remediation notes.
 - **Week 6 – Cloud Security** / **IAM, Remote Access, Logging & Monitoring**  
   *Planned artifacts:* IAM policy examples, SSH hardening checklist, log parsing snippet.
-
 
 ## Security Context
 
