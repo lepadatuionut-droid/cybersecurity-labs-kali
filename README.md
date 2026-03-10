@@ -8,8 +8,8 @@ This repository showcases my **cyber security lab work** in a Kali (Apporto) env
   - Folder: [`week_1_linux_basics/`](./week_1_linux_bas`week_1_linux_basics/docs/Week_1_LAB_work_report.docx`](./week_1_linux_baseek_1_linux_basics/screenshots/`  - Artifact ZIP: [`archives/week_1_Tutorial.zip`](./archives– Linux OS Basics (Navigation, editing, redirection, sudo)**
 
 - **Week 2 – Linux OS Basics (Navigation, editing, redirection, sudo)**
-  - Folder: `week_2_linux_os_basics/`
-  - Report (DOCX): [`week_2_linux_os_basics/docs/Week_2_LAB_screenshots.docx`](./week_2_linux_os_basics/docs/Week_2_LAB_screenshots`](./week_
+  - Folder: [`week_2_linuxos_basics/`
+  - Report (DOCX): [`week_2_linux_os_basics/docs/Week_2_LAB_screenshots.docx`](./week_2_linux_os_basics/docs/Week_sics/screenshots/`](./week_
 
 - **Week 3 – User Accounts & Permissions (adduser, passwd, chmod)**  
   - Folder: `week_3_user_accounts_permissions/`
