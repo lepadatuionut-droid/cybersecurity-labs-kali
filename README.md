@@ -3,17 +3,12 @@
 This repository showcases my **cyber security lab work** in a Kali (Apporto) environment, starting from **Linux CLI fundamentals** and progressing to core security topics (risk & essentials, cryptography, network security/scanning, vulnerability scanning, cloud security, and penetration testing). Each week includes **evidence** (DOCX report, screenshots, exported artifacts) to demonstrate reproducible, hands‑on practice aligned to the module structure
 
 ## Weeks
-- **Week 1 – Linux CLI Essentials**
-  - 👉 Week folder: [`week_1_linux_basics/`  - Report (DOCX): [`week_1_linux_basics/docs/Week_1_LAB_work_report.docx`](./week_nshots: [`week_1_linux_basics/screenshots/`](./week_1_linux_basifact: [`archives/week_1_Tutorial.zip
- 
-> Additional weeks (2–6) will be added as separate folders.
-
-## Weeks
 
 - **Week 1 – Linux CLI Essentials (Filesystem, basic operations)**
-  - Folder: [`week_1_linux_basics/`](./week_1_linux_bas`week_1_linux_basics/docs/Week_1_LAB_work_report.docx`](./week_1_linux_baseek_1_linux_basics/screenshots/`  - Artifact ZIP: [`archives/week_1_Tutorial.zip`](./archives– Linux OS Basics (Navigation, editing, redirection, sudo)**  
-  - Folder: [`week_2_linux_os_basics/`](./week_2_linux_os_basics_linux_os_basics/docs/Week_2_LAB_screenshots.docx`
-  - Screenshots: `week_2_linux_os_basics/screenshots/`
+  - Folder: [`week_1_linux_basics/`](./week_1_linux_bas`week_1_linux_basics/docs/Week_1_LAB_work_report.docx`](./week_1_linux_baseek_1_linux_basics/screenshots/`  - Artifact ZIP: [`archives/week_1_Tutorial.zip`](./archives– Linux OS Basics (Navigation, editing, redirection, sudo)**
+    
+- **Week 2 – Linux OS Basics (Navigation, editing, redirection, sudo)**
+  - Folder: [`week_2_linux_os_basics/`](./week_t (DOCX): [`week_2_linux_os_basics/docs/Week_2_LAB_screenshots.docx`](./week_2_linux_os_basics/docs/Week_2_LAB_screensts/`
 
 - **Week 3 – User Accounts & Permissions (adduser, passwd, chmod)**  
   - Folder: `week_3_user_accounts_permissions/`
